@@ -1,9 +1,9 @@
 ### 👋 Hi there! I'm Tyler (He/Him)
 <p align="center">
-📍&emsp;Denver, Colorado&emsp;📬&emsp;<a href="https://www.linkedin.com/in/tyler-haglund/"/>LinkedIn</a> <br/>
+📍&emsp;Denver, Colorado&emsp;📬&emsp;<a href="https://www.linkedin.com/in/tyler-fincher/"/>LinkedIn</a> <br/>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Front End Web Developer
+- 🖥 Front End Web Developer, 🎖 Army Vet, 🏳️‍🌈 Proud Husband
 - 🎓 Recent Graduate Turning School of Software and Design
 - 🏔 => 🧀 => 🏔 Colorado Born, Wisconsin Raised and Back again.
 - 🎲 Board game, fantasy, video game, and tabletop nerd
